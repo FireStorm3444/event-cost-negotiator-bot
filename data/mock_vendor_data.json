@@ -1,0 +1,14 @@
+{
+  "services": {
+    "Venue": {"base_price": 50000, "flexibility": 6},
+    "Catering": {"base_price_per_person": 600, "flexibility": 6},
+    "Photography": {"base_price":15000, "flexibility": 7},
+    "Decoration": {"base_price": 5000, "flexibility": 9},
+    "DJ": {"base_price": 10000, "flexibility": 3}
+  },
+  "season_discounts": {
+    "off_season": 0.08,
+    "early_booking": 0.1,
+    "combo_discount": 0.05
+  }
+}
