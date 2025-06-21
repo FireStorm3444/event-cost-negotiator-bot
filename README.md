@@ -15,8 +15,8 @@ Welcome to my submission for the UtsavAi Internship Round 1 project. This logic-
 ## Features
 
 - Estimates base event cost using mock pricing data
-- Applies per-service discounts based on **flexibility**
-- Calculates **global discounts** (Early Booking, Off-season, Combo)
+- Applies per-service discounts based on flexibility
+- Calculates global discounts (Early Booking, Off-season, Combo)
 - Generates a final negotiated cost breakdown
 - Fully logic-driven, no AI APIs used
 
